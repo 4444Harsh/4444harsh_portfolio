@@ -1,0 +1,21 @@
+# _config.yml
+title: Harsh Gupta - Senior ML Engineer & AI Architect
+logo: assets/img/profile.jpg
+description: Senior Machine Learning Engineer specializing in AI, Computer Vision, and Deep Learning. Building cutting-edge AI solutions that transform businesses.
+baseurl: ""
+url: "https://4444Harsh.github.io"
+show_downloads: true
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Custom properties
+name: "Harsh Gupta"
+role: "Machine Learning Engineer"
+email: "harshgupta4444@gmail.com"
+github: "4444Harsh"
+linkedin: "4444harsh"
+kaggle: "harshgupta4444"
+twitter: "4444harshgupta"
